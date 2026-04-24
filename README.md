@@ -1,6 +1,6 @@
 README
 
-This script runs the evolutionary model of hemispheric specialization and saves all results to the Desktop(revised).
+This script runs the evolutionary model of hemispheric specialization and saves all results to the Desktop(analyze_revised_results.py).
 
 Requirements
 
